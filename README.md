@@ -20,6 +20,19 @@ FPS subsampling at different densities
 For paper reference (Bibtex)
 
 ```
-
+@inproceedings{10.1117/12.3122985,
+author = {Michael B. Estrada and Luis E. Chuquimarca and Boris X. Vintimilla and Kevin E. Mu{\~n}oz and Steven S. Araujo and Sergio A. Velastin},
+title = {{Deep learning for banana deformity classification: evaluating 2D and 3D domains}},
+volume = {14321},
+booktitle = {Seventh International Conference on Computer Vision and Information Technology (CVIT 2026)},
+editor = {Jixin Ma},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {143210A},
+keywords = {Banana deformity classification, Fruit quality inspection, Deep learning, 3D point clouds, 2D RGB images},
+year = {2026},
+doi = {10.1117/12.3122985},
+URL = {https://doi.org/10.1117/12.3122985}
+}
 ```
 
